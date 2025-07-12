@@ -7,4 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<changes>
+## [2.0.0-beta.1] - 2025-07-12
+
+### Changed
+
+- Add playerlistdialog.res
+
+### Removed
+
+- SourceModPatcher tokens in gameinfo.txt
+
+## [1.0.0] - 2025-01-02
+
+### Added
+
+- Initial release in SourceModPatcher
+
+### Changed
+
+- Removed 'Report bug' from game menu
+- Removed 'Video stress test' from game menu
+
+### Fixed
+
+- Player list UI
+- OptionsSubMultiplayer UI
